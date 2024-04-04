@@ -17,7 +17,11 @@ This project explores recent restaurant inspections in Las Vegas, Nevada, provid
 ## Visualization
 
 - Distribution of Employee’s Age and Count across Restaurant categories.
-- Distribution of Current Grade.
+- ![image](https://github.com/yashnikhare22/Predictive-Analytics-in-Food-Establishment-Auditing-/assets/49709163/6ee01aa1-994f-4edb-8626-040e2e183124)
+
+- Distribution of Count by Age Bucket and Grade.
+- ![image](https://github.com/yashnikhare22/Predictive-Analytics-in-Food-Establishment-Auditing-/assets/49709163/643cbc98-5a12-4ad9-9ff3-e92552f0e5bd)
+
 
 ## Hypothesis Testing
 
